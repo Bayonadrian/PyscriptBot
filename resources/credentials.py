@@ -1,1 +1,1 @@
-credential = '1877401453:AAFSCVKbts9Y0Bf3Icp99SGiUqnDrrXVOmo'
+credential = ''
